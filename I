@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+   
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+      <link rel="stylesheet" href="css/styles.css">
+      <link rel="stylesheet" href="css/all.css">
+
+</head>
+      <body>
+           <div class="container-fluid header">
+            <div class="row "> 
+                                 
+                    <div class="col-auto logosup align-self-center">
+                      <div style="height: 4vh; width: 4vh; background: green; border-radius: 50px;"> </div>
+                    </div>
+                    <div style=" background: yellow; "class="col-auto botonini align-self-center"  >
+                         <button type="button" class="btn btn-outline-warning btn-sm " > Dink App </button>
+                    </div>
+                    <div class=" container-fluid col ">  
+                    <div class="row justify-content-end ">
+                        <div class="col-auto " style="  background: green">  <button type="button" class="btn btn-outline-warning btn-sm " > Iniciar Sesion</button> </div> 
+
+                         <div class="col-auto " >  <i class="fas fa-user"></i></div> 
+
+                    </div>
+                    </div>
+                   
+           
+            </div>
+           </div>
+ <div class="col-auto " >  <i class="fas fa-camera"> </i> </div> 
+          
+      </body>
+            
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, t hen Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+  </body>
+</html>
+
+
+
